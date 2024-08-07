@@ -1,4 +1,4 @@
-# Slider after to before
+# Vertul scroll
 
 ## Props
 ```
